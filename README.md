@@ -2,6 +2,10 @@
 
 Automatic Folders classifier with Backup Generation facility
 
+## Team Members
+- Arnav Gupta
+- Divyansh Gaba
+
 ## Motivation
 
 CSE101 Optional Assignment.
